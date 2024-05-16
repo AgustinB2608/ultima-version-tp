@@ -1,0 +1,805 @@
+# depslib dependency file v1.0
+1715553505 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1715553505 c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\empresa.h
+	<string>
+	"Fecha.h"
+
+1715553505 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\empresaarchivo.cpp
+	<iostream>
+	"EmpresaArchivo.h"
+	<cstring>
+
+1715287087 c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\empresaarchivo.h
+	"Empresa.h"
+	<string>
+
+1715553505 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\empresamanager.cpp
+	<iostream>
+	"EmpresaManager.h"
+	<string>
+	<cstring>
+
+1715553298 c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+	"Fecha.h"
+
+1715553505 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\main.cpp
+	<iostream>
+	"MainManager.h"
+
+1715553505 c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\mainmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+
+1715553298 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\mainmanager.cpp
+	<iostream>
+	"MainManager.h"
+	<string>
+	<cstring>
+
+1715207261 c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\fecha.h
+	<iostream>
+	<string.h>
+
+1715281895 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1715381760 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\municipio.cpp
+	<iostream>
+	<cstring>
+	"Municipio.h"
+
+1715369208 c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\municipio.h
+	<string>
+
+1715553352 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\municipioarchivo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"MunicipioArchivo.h"
+
+1715385348 c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715390243 c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\municipioarchivo.h
+	"Municipio.h"
+
+1715553298 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\municipiomanager.cpp
+	<iostream>
+	"MunicipioManager.h"
+
+1715371302 source:c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\reportemanager.cpp
+	"ReporteManager.h"
+
+1715371302 c:\users\aby\documents\utn\segundo a—o\primer cuatrimestre\laboratorio ii\parcial1\parcial1\reportemanager.h
+
+1715559328 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1715559329 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\empresa.h
+	<string>
+	"Fecha.h"
+
+1715559329 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\fecha.h
+	<iostream>
+	<string.h>
+
+1715559329 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\empresaarchivo.cpp
+	<iostream>
+	"EmpresaArchivo.h"
+	<cstring>
+
+1715559329 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\empresaarchivo.h
+	"Empresa.h"
+	<string>
+
+1715567428 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\empresamanager.cpp
+	<iostream>
+	"EmpresaManager.h"
+	<string>
+	<cstring>
+
+1715559329 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+	"Fecha.h"
+
+1715559329 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1715559329 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\main.cpp
+	<iostream>
+	"MainManager.h"
+
+1715559330 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\mainmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+
+1715566926 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715559330 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\municipio.h
+	<string>
+
+1715565821 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\municipioarchivo.h
+	"Municipio.h"
+
+1715567428 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\mainmanager.cpp
+	<iostream>
+	"MainManager.h"
+	<string>
+	<cstring>
+
+1715559330 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\municipio.cpp
+	<iostream>
+	<cstring>
+	"Municipio.h"
+
+1715566641 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\municipioarchivo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"MunicipioArchivo.h"
+
+1715567428 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1\municipiomanager.cpp
+	<iostream>
+	"MunicipioManager.h"
+
+1715637993 source:c:\users\aby\downloads\parcial1\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1715637993 c:\users\aby\downloads\parcial1\empresa.h
+	<string>
+	"Fecha.h"
+
+1715559330 c:\users\aby\downloads\parcial1\fecha.h
+	<iostream>
+	<string.h>
+
+1715559330 source:c:\users\aby\downloads\parcial1\empresaarchivo.cpp
+	<iostream>
+	"EmpresaArchivo.h"
+	<cstring>
+
+1715559330 c:\users\aby\downloads\parcial1\empresaarchivo.h
+	"Empresa.h"
+	<string>
+
+1715559330 source:c:\users\aby\downloads\parcial1\main.cpp
+	<iostream>
+	"MainManager.h"
+
+1715559332 c:\users\aby\downloads\parcial1\mainmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+
+1715559330 c:\users\aby\downloads\parcial1\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+	"Fecha.h"
+
+1715566928 c:\users\aby\downloads\parcial1\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715559332 c:\users\aby\downloads\parcial1\municipio.h
+	<string>
+
+1715565822 c:\users\aby\downloads\parcial1\municipioarchivo.h
+	"Municipio.h"
+
+1715567430 source:c:\users\aby\downloads\parcial1\mainmanager.cpp
+	<iostream>
+	"MainManager.h"
+	<string>
+	<cstring>
+
+1715559332 source:c:\users\aby\downloads\parcial1\municipio.cpp
+	<iostream>
+	<cstring>
+	"Municipio.h"
+
+1715566642 source:c:\users\aby\downloads\parcial1\municipioarchivo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"MunicipioArchivo.h"
+
+1715637495 source:c:\users\aby\downloads\parcial1\municipiomanager.cpp
+	<iostream>
+	"MunicipioManager.h"
+
+1715567868 source:c:\users\aby\downloads\parcial1\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1715638097 source:c:\users\aby\downloads\parcial1\empresamanager.cpp
+	<iostream>
+	"EmpresaManager.h"
+	<string>
+	<cstring>
+
+1715658604 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1715658604 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\empresa.h
+	<string>
+	"Fecha.h"
+
+1715658604 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\fecha.h
+	<iostream>
+	<string.h>
+
+1715658604 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\empresaarchivo.cpp
+	<iostream>
+	"EmpresaArchivo.h"
+	<cstring>
+
+1715658604 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\empresaarchivo.h
+	"Empresa.h"
+	<string>
+
+1715658604 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\empresamanager.cpp
+	<iostream>
+	"EmpresaManager.h"
+	<string>
+	<cstring>
+
+1715702412 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+	"Fecha.h"
+
+1715658604 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1715658604 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\main.cpp
+	<iostream>
+	"MainManager.h"
+
+1715702533 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\mainmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+	"ConfiguracionManager.h"
+
+1715702370 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715658605 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\municipio.h
+	<string>
+
+1715658605 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\municipioarchivo.h
+	"Municipio.h"
+
+1715702492 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\mainmanager.cpp
+	<iostream>
+	"MainManager.h"
+	<string>
+	<cstring>
+
+1715658604 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\municipio.cpp
+	<iostream>
+	<cstring>
+	"Municipio.h"
+
+1715698974 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\municipioarchivo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"MunicipioArchivo.h"
+
+1715658605 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\municipiomanager.cpp
+	<iostream>
+	"MunicipioManager.h"
+
+1715704388 source:c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\configuracionmanager.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"ConfiguracionManager.h"
+
+1715704718 c:\users\danam\onedrive\documents\utn\laboratorio2_gg\parcial1.2\configuracionmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+
+1715658606 source:c:\users\berna\onedrive\escritorio\parcial1.2\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1715658606 c:\users\berna\onedrive\escritorio\parcial1.2\empresa.h
+	<string>
+	"Fecha.h"
+
+1715720968 c:\users\berna\onedrive\escritorio\parcial1.2\fecha.h
+	<iostream>
+	<string.h>
+
+1715658606 source:c:\users\berna\onedrive\escritorio\parcial1.2\empresaarchivo.cpp
+	<iostream>
+	"EmpresaArchivo.h"
+	<cstring>
+
+1715658606 c:\users\berna\onedrive\escritorio\parcial1.2\empresaarchivo.h
+	"Empresa.h"
+	<string>
+
+1715721888 source:c:\users\berna\onedrive\escritorio\parcial1.2\empresamanager.cpp
+	<iostream>
+	"EmpresaManager.h"
+	<string>
+	<cstring>
+
+1715702414 c:\users\berna\onedrive\escritorio\parcial1.2\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+	"Fecha.h"
+
+1715723411 source:c:\users\berna\onedrive\escritorio\parcial1.2\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Fecha.h"
+
+1715658606 source:c:\users\berna\onedrive\escritorio\parcial1.2\main.cpp
+	<iostream>
+	"MainManager.h"
+
+1715702534 c:\users\berna\onedrive\escritorio\parcial1.2\mainmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+	"ConfiguracionManager.h"
+
+1715702372 c:\users\berna\onedrive\escritorio\parcial1.2\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715658606 c:\users\berna\onedrive\escritorio\parcial1.2\municipio.h
+	<string>
+
+1715658606 c:\users\berna\onedrive\escritorio\parcial1.2\municipioarchivo.h
+	"Municipio.h"
+
+1715704720 c:\users\berna\onedrive\escritorio\parcial1.2\configuracionmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+
+1715721041 source:c:\users\berna\onedrive\escritorio\parcial1.2\mainmanager.cpp
+	<iostream>
+	"MainManager.h"
+	<string>
+	<cstring>
+
+1715658606 source:c:\users\berna\onedrive\escritorio\parcial1.2\municipio.cpp
+	<iostream>
+	<cstring>
+	"Municipio.h"
+
+1715698976 source:c:\users\berna\onedrive\escritorio\parcial1.2\municipioarchivo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"MunicipioArchivo.h"
+
+1715658606 source:c:\users\berna\onedrive\escritorio\parcial1.2\municipiomanager.cpp
+	<iostream>
+	"MunicipioManager.h"
+
+1715741843 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\configuracionmanager.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"ConfiguracionManager.h"
+
+1715742558 c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\configuracionmanager.h
+	"MunicipioManager.h"
+	"EmpresaManager.h"
+
+1715741809 c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+	"Fecha.h"
+
+1715740707 c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\empresa.h
+	<string>
+	"Fecha.h"
+
+1715736845 c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\fecha.h
+	<iostream>
+	<string.h>
+
+1715740707 c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\empresaarchivo.h
+	"Empresa.h"
+	<string>
+
+1715741834 c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715740780 c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\municipio.h
+	<string>
+
+1715740800 c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\municipioarchivo.h
+	"Municipio.h"
+
+1715740687 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1715740696 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\empresaarchivo.cpp
+	<iostream>
+	"EmpresaArchivo.h"
+	<cstring>
+
+1715740769 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\empresamanager.cpp
+	<iostream>
+	"EmpresaManager.h"
+	<string>
+	<cstring>
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715736845 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Fecha.h"
+
+1715736845 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\main.cpp
+	<iostream>
+	"MainManager.h"
+
+1715742558 c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\mainmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+	"ConfiguracionManager.h"
+
+1715741917 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\mainmanager.cpp
+	<iostream>
+	"MainManager.h"
+	<string>
+	<cstring>
+
+1715741301 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\municipio.cpp
+	<iostream>
+	<cstring>
+	"Municipio.h"
+
+1715740790 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\municipioarchivo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"MunicipioArchivo.h"
+
+1715741336 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\municipiomanager.cpp
+	<iostream>
+	"MunicipioManager.h"
+
+1715742275 source:c:\users\danam\onedrive\documents\utn\tp parcial\parcial1.4\reportes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1715741844 source:c:\users\aby\downloads\parcial1.4\configuracionmanager.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"ConfiguracionManager.h"
+
+1715742560 c:\users\aby\downloads\parcial1.4\configuracionmanager.h
+	"MunicipioManager.h"
+	"EmpresaManager.h"
+
+1715741836 c:\users\aby\downloads\parcial1.4\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715740782 c:\users\aby\downloads\parcial1.4\municipio.h
+	<string>
+
+1715740802 c:\users\aby\downloads\parcial1.4\municipioarchivo.h
+	"Municipio.h"
+
+1715741810 c:\users\aby\downloads\parcial1.4\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+	"Fecha.h"
+
+1715740708 c:\users\aby\downloads\parcial1.4\empresa.h
+	<string>
+	"Fecha.h"
+
+1715736846 c:\users\aby\downloads\parcial1.4\fecha.h
+	<iostream>
+	<string.h>
+
+1715740708 c:\users\aby\downloads\parcial1.4\empresaarchivo.h
+	"Empresa.h"
+	<string>
+
+1715740688 source:c:\users\aby\downloads\parcial1.4\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1715740698 source:c:\users\aby\downloads\parcial1.4\empresaarchivo.cpp
+	<iostream>
+	"EmpresaArchivo.h"
+	<cstring>
+
+1715736846 source:c:\users\aby\downloads\parcial1.4\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Fecha.h"
+
+1715736846 source:c:\users\aby\downloads\parcial1.4\main.cpp
+	<iostream>
+	"MainManager.h"
+
+1715742560 c:\users\aby\downloads\parcial1.4\mainmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+	"ConfiguracionManager.h"
+
+1715742560 source:c:\users\aby\downloads\parcial1.4\mainmanager.cpp
+	<iostream>
+	"MainManager.h"
+	<string>
+	<cstring>
+
+1715741302 source:c:\users\aby\downloads\parcial1.4\municipio.cpp
+	<iostream>
+	<cstring>
+	"Municipio.h"
+
+1715740792 source:c:\users\aby\downloads\parcial1.4\municipioarchivo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"MunicipioArchivo.h"
+
+1715741338 source:c:\users\aby\downloads\parcial1.4\municipiomanager.cpp
+	<iostream>
+	"MunicipioManager.h"
+
+1715747077 source:c:\users\aby\downloads\parcial1.4\empresamanager.cpp
+	<iostream>
+	"EmpresaManager.h"
+	<string>
+	<cstring>
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715815725 source:c:\users\aby\documents\parcial1.6\configuracionmanager.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"ConfiguracionManager.h"
+
+1715812512 c:\users\aby\documents\parcial1.6\configuracionmanager.h
+	"MunicipioManager.h"
+	"EmpresaManager.h"
+
+1715741836 c:\users\aby\documents\parcial1.6\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715740782 c:\users\aby\documents\parcial1.6\municipio.h
+	<string>
+
+1715740802 c:\users\aby\documents\parcial1.6\municipioarchivo.h
+	"Municipio.h"
+
+1715741810 c:\users\aby\documents\parcial1.6\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+	"Fecha.h"
+
+1715740708 c:\users\aby\documents\parcial1.6\empresa.h
+	<string>
+	"Fecha.h"
+
+1715736846 c:\users\aby\documents\parcial1.6\fecha.h
+	<iostream>
+	<string.h>
+
+1715740708 c:\users\aby\documents\parcial1.6\empresaarchivo.h
+	"Empresa.h"
+	<string>
+
+1715740688 source:c:\users\aby\documents\parcial1.6\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1715815640 source:c:\users\aby\documents\parcial1.6\empresaarchivo.cpp
+	<iostream>
+	"EmpresaArchivo.h"
+	<cstring>
+
+1715747078 source:c:\users\aby\documents\parcial1.6\empresamanager.cpp
+	<iostream>
+	"EmpresaManager.h"
+	<string>
+	<cstring>
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715736846 source:c:\users\aby\documents\parcial1.6\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Fecha.h"
+
+1715736846 source:c:\users\aby\documents\parcial1.6\main.cpp
+	<iostream>
+	"MainManager.h"
+
+1715742560 c:\users\aby\documents\parcial1.6\mainmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+	"ConfiguracionManager.h"
+
+1715742560 source:c:\users\aby\documents\parcial1.6\mainmanager.cpp
+	<iostream>
+	"MainManager.h"
+	<string>
+	<cstring>
+
+1715741302 source:c:\users\aby\documents\parcial1.6\municipio.cpp
+	<iostream>
+	<cstring>
+	"Municipio.h"
+
+1715814821 source:c:\users\aby\documents\parcial1.6\municipioarchivo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"MunicipioArchivo.h"
+
+1715813833 source:c:\users\aby\documents\parcial1.6\municipiomanager.cpp
+	<iostream>
+	"MunicipioManager.h"
+
+1715742276 source:c:\users\aby\documents\parcial1.6\reportes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1715816038 source:c:\users\berna\onedrive\escritorio\parcial1.7\configuracionmanager.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"ConfiguracionManager.h"
+
+1715812514 c:\users\berna\onedrive\escritorio\parcial1.7\configuracionmanager.h
+	"MunicipioManager.h"
+	"EmpresaManager.h"
+
+1715741836 c:\users\berna\onedrive\escritorio\parcial1.7\municipiomanager.h
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715740782 c:\users\berna\onedrive\escritorio\parcial1.7\municipio.h
+	<string>
+
+1715740802 c:\users\berna\onedrive\escritorio\parcial1.7\municipioarchivo.h
+	"Municipio.h"
+
+1715741810 c:\users\berna\onedrive\escritorio\parcial1.7\empresamanager.h
+	"Empresa.h"
+	"EmpresaArchivo.h"
+	"Fecha.h"
+
+1715740708 c:\users\berna\onedrive\escritorio\parcial1.7\empresa.h
+	<string>
+	"Fecha.h"
+
+1715736846 c:\users\berna\onedrive\escritorio\parcial1.7\fecha.h
+	<iostream>
+	<string.h>
+
+1715740708 c:\users\berna\onedrive\escritorio\parcial1.7\empresaarchivo.h
+	"Empresa.h"
+	<string>
+
+1715740688 source:c:\users\berna\onedrive\escritorio\parcial1.7\empresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Empresa.h"
+
+1715815642 source:c:\users\berna\onedrive\escritorio\parcial1.7\empresaarchivo.cpp
+	<iostream>
+	"EmpresaArchivo.h"
+	<cstring>
+
+1715747078 source:c:\users\berna\onedrive\escritorio\parcial1.7\empresamanager.cpp
+	<iostream>
+	"EmpresaManager.h"
+	<string>
+	<cstring>
+	"Municipio.h"
+	"MunicipioArchivo.h"
+
+1715736846 source:c:\users\berna\onedrive\escritorio\parcial1.7\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Fecha.h"
+
+1715736846 source:c:\users\berna\onedrive\escritorio\parcial1.7\main.cpp
+	<iostream>
+	"MainManager.h"
+
+1715742560 c:\users\berna\onedrive\escritorio\parcial1.7\mainmanager.h
+	"EmpresaManager.h"
+	"MunicipioManager.h"
+	"ConfiguracionManager.h"
+
+1715742560 source:c:\users\berna\onedrive\escritorio\parcial1.7\mainmanager.cpp
+	<iostream>
+	"MainManager.h"
+	<string>
+	<cstring>
+
+1715741302 source:c:\users\berna\onedrive\escritorio\parcial1.7\municipio.cpp
+	<iostream>
+	<cstring>
+	"Municipio.h"
+
+1715814822 source:c:\users\berna\onedrive\escritorio\parcial1.7\municipioarchivo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"MunicipioArchivo.h"
+
+1715813834 source:c:\users\berna\onedrive\escritorio\parcial1.7\municipiomanager.cpp
+	<iostream>
+	"MunicipioManager.h"
+
+1715742276 source:c:\users\berna\onedrive\escritorio\parcial1.7\reportes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
